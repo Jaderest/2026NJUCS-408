@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "2404ff07d5942202",
+    "type": "split",
+    "children": [
+      {
+        "id": "a197e3d4fc83ed8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25632e7426aa6d26",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "马原思维导图.canvas",
+                "viewState": {
+                  "x": 89.66668701171875,
+                  "y": 62.66668701171875,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "马原思维导图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acec5f4b95c91e0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "051e167d4d63d73c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c74792ae6d7df6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f93e87074b64e038",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "88b501f1725de3ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09ea032b47726d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "02c5a974e388e2bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7501a98fd1294d98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "马原思维导图.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "马原思维导图 的反向链接列表"
+            }
+          },
+          {
+            "id": "96023be23366f879",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "马原思维导图.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "马原思维导图 的出链列表"
+            }
+          },
+          {
+            "id": "480300fdbe222bf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d77f8f1b7eca0b44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "马原思维导图.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "马原思维导图 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "480300fdbe222bf9",
+  "lastOpenFiles": [
+    "马原.md",
+    "马原思维导图.canvas"
+  ]
+}

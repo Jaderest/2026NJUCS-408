@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c56e9a8af1d500ae","x":-200,"y":-140,"width":240,"height":60,"type":"text","text":"事物普遍联系和变化发展"},
+		{"id":"f29a32b4cbf2ace8","x":140,"y":-80,"width":160,"height":60,"type":"text","text":"五对基本范畴"},
+		{"id":"fdaa4590316750c0","x":140,"y":-180,"width":160,"height":60,"type":"text","text":"三大规律"},
+		{"id":"e21995774eac5182","x":140,"y":-280,"width":160,"height":60,"type":"text","text":"两大总特征"},
+		{"id":"7f05a82724fbd264","x":-380,"y":-20,"width":130,"height":50,"type":"text","text":"唯物辩证法"},
+		{"id":"f3d55f1062404d77","x":-200,"y":80,"width":250,"height":60,"type":"text","text":"认识改造世界根本方法"},
+		{"id":"870414a1a093e032","x":111,"y":80,"width":250,"height":60,"type":"text","text":"客观辩证法v.s.主观辩证法"}
+	],
+	"edges":[
+		{"id":"9a5219a20714df5b","fromNode":"7f05a82724fbd264","fromSide":"right","toNode":"c56e9a8af1d500ae","toSide":"left"},
+		{"id":"44b2322b14f08e84","fromNode":"c56e9a8af1d500ae","fromSide":"right","toNode":"e21995774eac5182","toSide":"left"},
+		{"id":"38c9ead1fdbc942b","fromNode":"c56e9a8af1d500ae","fromSide":"right","toNode":"fdaa4590316750c0","toSide":"left"},
+		{"id":"886fd5fccc06af60","fromNode":"c56e9a8af1d500ae","fromSide":"right","toNode":"f29a32b4cbf2ace8","toSide":"left"},
+		{"id":"bdf3d691290af05a","fromNode":"7f05a82724fbd264","fromSide":"right","toNode":"f3d55f1062404d77","toSide":"left"},
+		{"id":"0b934299fc967496","fromNode":"f3d55f1062404d77","fromSide":"right","toNode":"870414a1a093e032","toSide":"left"}
+	]
+}
