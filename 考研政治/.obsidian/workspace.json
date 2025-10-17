@@ -11,17 +11,14 @@
             "id": "25632e7426aa6d26",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "马原思维导图.canvas",
-                "viewState": {
-                  "x": 89.66668701171875,
-                  "y": 62.66668701171875,
-                  "zoom": 0
-                }
+                "file": "马原.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "马原思维导图"
+              "icon": "lucide-file",
+              "title": "马原"
             }
           }
         ]
@@ -145,21 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "马原思维导图.canvas",
+                "file": "马原.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "马原思维导图 的大纲"
+              "title": "马原 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +170,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "480300fdbe222bf9",
+  "active": "25632e7426aa6d26",
   "lastOpenFiles": [
-    "马原.md",
-    "马原思维导图.canvas"
+    "马原思维导图.canvas",
+    "马原.md"
   ]
 }

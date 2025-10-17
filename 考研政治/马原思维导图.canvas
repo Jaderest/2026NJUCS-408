@@ -1,12 +1,22 @@
 {
 	"nodes":[
-		{"id":"c56e9a8af1d500ae","x":-200,"y":-140,"width":240,"height":60,"type":"text","text":"事物普遍联系和变化发展"},
-		{"id":"f29a32b4cbf2ace8","x":140,"y":-80,"width":160,"height":60,"type":"text","text":"五对基本范畴"},
-		{"id":"fdaa4590316750c0","x":140,"y":-180,"width":160,"height":60,"type":"text","text":"三大规律"},
-		{"id":"e21995774eac5182","x":140,"y":-280,"width":160,"height":60,"type":"text","text":"两大总特征"},
-		{"id":"7f05a82724fbd264","x":-380,"y":-20,"width":130,"height":50,"type":"text","text":"唯物辩证法"},
-		{"id":"f3d55f1062404d77","x":-200,"y":80,"width":250,"height":60,"type":"text","text":"认识改造世界根本方法"},
-		{"id":"870414a1a093e032","x":111,"y":80,"width":250,"height":60,"type":"text","text":"客观辩证法v.s.主观辩证法"}
+		{"id":"7f05a82724fbd264","type":"text","text":"唯物辩证法","x":-380,"y":-20,"width":130,"height":50},
+		{"id":"f3d55f1062404d77","type":"text","text":"认识改造世界根本方法","x":-91,"y":280,"width":250,"height":60},
+		{"id":"870414a1a093e032","type":"text","text":"客观辩证法v.s.主观辩证法","x":220,"y":280,"width":250,"height":60},
+		{"id":"c56e9a8af1d500ae","type":"text","text":"事物普遍联系和变化发展","x":-118,"y":-231,"width":240,"height":60},
+		{"id":"6ddeff624fc8d68b","x":485,"y":-46,"width":127,"height":51,"type":"text","text":"内容和形式"},
+		{"id":"95f2eb54c3a783c6","x":487,"y":5,"width":128,"height":50,"type":"text","text":"现象和本质"},
+		{"id":"cc20ae6a6f3fbec7","x":485,"y":55,"width":127,"height":50,"type":"text","text":"原因和结果"},
+		{"id":"0ff6ec730fd944e7","x":484,"y":105,"width":128,"height":50,"type":"text","text":"必然和偶然"},
+		{"id":"185cf057c0583264","x":485,"y":155,"width":130,"height":50,"type":"text","text":"可能和现实"},
+		{"id":"f29a32b4cbf2ace8","type":"text","text":"五对基本范畴","x":265,"y":24,"width":160,"height":60},
+		{"id":"d283c10b259ee0c1","x":484,"y":-322,"width":160,"height":60,"type":"text","text":"对立统一规律"},
+		{"id":"22de9ba10fd480cd","x":483,"y":-261,"width":161,"height":60,"type":"text","text":"量变质变规律"},
+		{"id":"2a8e3a884745af16","x":482,"y":-202,"width":162,"height":60,"type":"text","text":"否定之否定规律"},
+		{"id":"fdaa4590316750c0","type":"text","text":"三大规律","x":262,"y":-261,"width":160,"height":60},
+		{"id":"57948b0f13f8e8f6","x":472,"y":-480,"width":125,"height":50,"type":"text","text":"普遍联系"},
+		{"id":"331cb04427eb76d0","x":470,"y":-420,"width":125,"height":50,"type":"text","text":"变化发展"},
+		{"id":"e21995774eac5182","type":"text","text":"两大总特征","x":250,"y":-450,"width":160,"height":60}
 	],
 	"edges":[
 		{"id":"9a5219a20714df5b","fromNode":"7f05a82724fbd264","fromSide":"right","toNode":"c56e9a8af1d500ae","toSide":"left"},
@@ -14,6 +24,16 @@
 		{"id":"38c9ead1fdbc942b","fromNode":"c56e9a8af1d500ae","fromSide":"right","toNode":"fdaa4590316750c0","toSide":"left"},
 		{"id":"886fd5fccc06af60","fromNode":"c56e9a8af1d500ae","fromSide":"right","toNode":"f29a32b4cbf2ace8","toSide":"left"},
 		{"id":"bdf3d691290af05a","fromNode":"7f05a82724fbd264","fromSide":"right","toNode":"f3d55f1062404d77","toSide":"left"},
-		{"id":"0b934299fc967496","fromNode":"f3d55f1062404d77","fromSide":"right","toNode":"870414a1a093e032","toSide":"left"}
+		{"id":"0b934299fc967496","fromNode":"f3d55f1062404d77","fromSide":"right","toNode":"870414a1a093e032","toSide":"left"},
+		{"id":"0689a65268b0c0dc","fromNode":"e21995774eac5182","fromSide":"right","toNode":"57948b0f13f8e8f6","toSide":"left"},
+		{"id":"1ffb4ccbd4dd9c09","fromNode":"e21995774eac5182","fromSide":"right","toNode":"331cb04427eb76d0","toSide":"left"},
+		{"id":"fa03e49e587a4ad0","fromNode":"fdaa4590316750c0","fromSide":"right","toNode":"d283c10b259ee0c1","toSide":"left"},
+		{"id":"8abce4bd7e5fdbff","fromNode":"fdaa4590316750c0","fromSide":"right","toNode":"22de9ba10fd480cd","toSide":"left"},
+		{"id":"273f3d8cec045a2f","fromNode":"fdaa4590316750c0","fromSide":"right","toNode":"2a8e3a884745af16","toSide":"left"},
+		{"id":"ea0d0202ddeaf921","fromNode":"f29a32b4cbf2ace8","fromSide":"right","toNode":"6ddeff624fc8d68b","toSide":"left"},
+		{"id":"1f9d6577e2d7b7fd","fromNode":"f29a32b4cbf2ace8","fromSide":"right","toNode":"95f2eb54c3a783c6","toSide":"left"},
+		{"id":"4c2d640a88775370","fromNode":"f29a32b4cbf2ace8","fromSide":"right","toNode":"cc20ae6a6f3fbec7","toSide":"left"},
+		{"id":"8941fcd73c6bebad","fromNode":"f29a32b4cbf2ace8","fromSide":"right","toNode":"0ff6ec730fd944e7","toSide":"left"},
+		{"id":"c6eb602e5c20be46","fromNode":"f29a32b4cbf2ace8","fromSide":"right","toNode":"185cf057c0583264","toSide":"left"}
 	]
 }
