@@ -13,6 +13,7 @@
   - [8.3.1 冒泡排序](#831-冒泡排序)
   - [8.3.2 快速排序](#832-快速排序)
   - [常见考点及做法](#常见考点及做法)
+  - [算法分析](#算法分析)
 
 # 8.1 排序基本概念
 
@@ -204,6 +205,42 @@ int Partition(ElemType A[], int low, int high) {
   - 4分为1和2，比3次
   - 2分为1，比1次
   - 共7+2+3+1=13次
+
+## 算法分析
+
+- Select算法（结合Partition算法使用）
+
+```c
+// 分区函数：以pivot为基准，返回pivot最终的位置
+int Partition(ElemType A[], int low, int high) {
+    ElemType pivot = A[low];
+    while(low < high) {
+    	while (low < high && A[high] >= pivot) --high; // 高的跳过
+        A[low] = A[high]; // 比pivot小的移到左端
+        while (low < high && A[low] <= pivot) ++low;
+        A[high] = A[low];
+    }
+    A[low] = pivot;
+    return low;
+}
+
+// 快速选择函数：寻找第k大元素
+// 然后我们只需要寻找 \lfloor n/2 \rfloor
+int quickSelect(int arr[], int left, int right, int k) {
+    if (left <= right) {
+        int pivotIndex = Partition(arr, left, right);
+        int count = right - pivotIndex + 1; // pivot是第count大
+
+        if (count == k)
+            return arr[pivotIndex];
+        else if (count > k)
+            return quickSelect(arr, pivotIndex + 1, right, k);
+        else
+            return quickSelect(arr, left, pivotIndex - 1, k - count);
+    }
+    return -1; // 理论上不会执行到这里
+}
+```
 
 
 
