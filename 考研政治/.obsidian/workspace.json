@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "马政经计算题整理.md",
+                "file": "马哲社会形态相关等式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "马政经计算题整理"
+              "title": "马哲社会形态相关等式"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "e7f19431510446d7",
   "lastOpenFiles": [
-    "马原.md",
+    "马原思维导图.canvas",
+    "马哲社会形态相关等式.md",
     "马政经计算题整理.md",
-    "马原思维导图.canvas"
+    "马原.md"
   ]
 }
