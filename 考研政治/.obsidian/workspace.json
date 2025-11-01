@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思想道德法治/论述题考点.md",
+                "file": "马原/易混淆概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论述题考点"
+              "title": "易混淆概念"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09ea032b47726d34",
@@ -174,12 +173,14 @@
   },
   "active": "d1fa27ab167bf528",
   "lastOpenFiles": [
-    "思想道德法治/论述题考点.md",
+    "马原/忘记的概念.md",
     "马原/易混淆概念.md",
+    "马原/马原思维导图.canvas",
+    "未命名",
+    "马原/马原论述题.md",
+    "思想道德法治/思修论述题.md",
     "马原/马政经计算题整理.md",
     "马原/马哲社会形态相关等式.md",
-    "马原/马原.md",
-    "马原/马原思维导图.canvas",
     "思想道德法治",
     "马原",
     "唯物史观vs唯心史观.md"
