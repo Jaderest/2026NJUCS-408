@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03286348422e47fe",
+        "id": "64cbdbbe8b119ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fa27ab167bf528",
+            "id": "64d4330b16c1c5b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "09ea032b47726d34",
@@ -171,14 +171,14 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "d1fa27ab167bf528",
+  "active": "64d4330b16c1c5b3",
   "lastOpenFiles": [
     "马原/易混淆概念.md",
     "马原/忘记的概念.md",
+    "思想道德法治/思修论述题.md",
     "马原/马原思维导图.canvas",
     "未命名",
     "马原/马原论述题.md",
-    "思想道德法治/思修论述题.md",
     "马原/马政经计算题整理.md",
     "马原/马哲社会形态相关等式.md",
     "思想道德法治",
