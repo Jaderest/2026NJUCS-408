@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"43438e8a4c241b1e","x":-125,"y":-30,"width":65,"height":60,"type":"text","text":"史纲"},
+		{"id":"df892ce1c09f9e42","x":78,"y":-240,"width":122,"height":65,"type":"text","text":"1-7近代"},
+		{"id":"ee89df83f86e8411","x":64,"y":120,"width":136,"height":50,"type":"text","text":"8-10现代"},
+		{"id":"662c0f4ce5944c98","x":476,"y":-440,"width":250,"height":60,"type":"text","text":"1-3旧民主"},
+		{"id":"02e6a5107feaa66e","x":432,"y":-158,"width":250,"height":60,"type":"text","text":"4-7新民主（重点）"}
+	],
+	"edges":[
+		{"id":"ae1a4bdf02f319a0","fromNode":"43438e8a4c241b1e","fromSide":"right","toNode":"df892ce1c09f9e42","toSide":"left"},
+		{"id":"c916611146c875a6","fromNode":"43438e8a4c241b1e","fromSide":"right","toNode":"ee89df83f86e8411","toSide":"left"},
+		{"id":"e7aec07e330cc3e0","fromNode":"df892ce1c09f9e42","fromSide":"right","toNode":"662c0f4ce5944c98","toSide":"left"},
+		{"id":"365756898c64d5a5","fromNode":"df892ce1c09f9e42","fromSide":"right","toNode":"02e6a5107feaa66e","toSide":"left"}
+	]
+}
