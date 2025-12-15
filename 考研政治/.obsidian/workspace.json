@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毛中特/邓小平理论.md",
+                "file": "肖八整理/肖八.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "邓小平理论"
+              "title": "肖八"
+            }
+          },
+          {
+            "id": "0b77d6c5d3f9b50c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肖四整理/肖四.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肖四"
+            }
+          },
+          {
+            "id": "b00b62be9950d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "资料链接/2025年周年大事件【26考研】.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025年周年大事件【26考研】"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "史纲/史纲顺口溜.md",
+                "file": "肖八整理/肖八.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "史纲顺口溜 的大纲"
+              "title": "肖八 的大纲"
             }
           },
           {
@@ -186,19 +213,34 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "40a63f500d20e242",
+  "active": "0b77d6c5d3f9b50c",
   "lastOpenFiles": [
+    "肖八整理/肖八.md",
+    "肖四整理/肖四.md",
+    "肖八整理/新民主主义革命政权性质.md",
+    "新思想/新思想整理.md",
+    "肖四整理/资本所有制.png",
+    "肖四整理/马原-资本循环.png",
+    "肖四整理/个人社会理想.png",
+    "资料链接/2025年周年大事件【26考研】.pdf",
+    "资料链接/新思想12页纸（划线带笔记版）@空卡空卡空空卡.pdf",
+    "资料链接/26考研史纲时间轴@空卡空卡空空卡.pdf",
+    "未命名.md",
+    "资料链接",
+    "新思想",
+    "肖四整理",
+    "肖八整理/一个中国原则.md",
+    "肖八整理/转折点相关表述.md",
+    "史纲/史纲顺口溜.md",
+    "史纲/时间线.canvas",
+    "毛中特/邓小平理论.md",
     "毛中特/建国后文章.md",
     "毛中特/社会主义改造理论.md",
     "毛中特/中共八大 & 社会主要矛盾.md",
     "毛中特/总路线总纲领总道路总经验.md",
     "史纲/三大改造.md",
-    "史纲/时间线.canvas",
-    "史纲/史纲顺口溜.md",
-    "毛中特/邓小平理论.md",
     "史纲/史纲笔记.md",
     "史纲/outline.canvas",
-    "肖八整理/肖八（1）.md",
     "史纲/时间轴.md",
     "史纲/两次政治协商会议.md",
     "史纲/人民军队的发展.md",
@@ -214,15 +256,6 @@
     "史纲/遗忘的内容.md",
     "史纲/中共思想路线（毛泽东思想）.md",
     "史纲/马+中.md",
-    "史纲/中国革命的历史时期（新民主主义革命时期）.md",
-    "思想道德法治/忘记的概念.md",
-    "史纲",
-    "思想道德法治/思修论述题.md",
-    "马原/忘记的概念.md",
-    "马原/易混淆概念.md",
-    "马原/马原思维导图.canvas",
-    "马原/马原论述题.md",
-    "思想道德法治",
-    "马原"
+    "马原/马原思维导图.canvas"
   ]
 }

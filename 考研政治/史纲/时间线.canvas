@@ -19,9 +19,17 @@
 		{"id":"85d6245d8fe881e0","type":"text","text":"遵义会议（党历史上生死攸关的转折点）：\n1. 解决**军事**、**组织**问题\n2. 党在政治上走向成熟","x":-185,"y":1580,"width":445,"height":140},
 		{"id":"bcd83918b50c5a4c","type":"text","text":"土地革命时期1927-1937","x":-600,"y":1360,"width":280,"height":59},
 		{"id":"9a2cfd175e07ce7f","type":"text","text":"卢沟桥事变，日军全面侵华","x":-222,"y":2020,"width":519,"height":50},
-		{"id":"4b1648622a8f4b1a","type":"text","text":"六届六中全会：\n提出马主义中国化","x":-125,"y":2286,"width":325,"height":74},
+		{"id":"4b1648622a8f4b1a","type":"text","text":"六届六中全会：《论新阶段》\n提出马主义中国化","x":-125,"y":2286,"width":325,"height":74},
 		{"id":"25d1fc78e006c343","type":"text","text":"瓦窑堡——抗日民族统一战线\n洛川——全面抗战","x":460,"y":1830,"width":320,"height":81},
-		{"id":"069955d7a3515f4b","x":260,"y":2420,"width":282,"height":110,"type":"text","text":"《论十大关系》：\n**方针**：调动一切积极因素为社会主义事业服务"}
+		{"id":"9b07005d304ca512","x":-125,"y":2412,"width":325,"height":148,"type":"text","text":"三大法宝：党的建设、统一战线、武装斗争\n新民主主义系统阐明 **标志** 毛泽东思想趋于成熟"},
+		{"id":"279ef00529dcdaca","x":-125,"y":2600,"width":325,"height":60,"type":"text","text":"延安整风：重点是学风"},
+		{"id":"b2cf77e0ff83e18a","x":-125,"y":2700,"width":325,"height":120,"type":"text","text":"中共七大：正式命名毛泽东思想为指导思想\n党政治、思想、组织上走向成熟"},
+		{"id":"fc56c22f8f102854","x":-125,"y":2980,"width":325,"height":100,"type":"text","text":"政协会议、《中国人民政治协商会议共同纲领》临时宪法"},
+		{"id":"631d92e21a2e671c","x":-125,"y":3300,"width":325,"height":140,"type":"text","text":"中共八大：\n1. 主要矛盾\n2. 经济反保守反冒进"},
+		{"id":"ae00c2c772c00529","x":-125,"y":2860,"width":325,"height":74,"type":"text","text":"七届二中全会：\n工作中心乡村to城市"},
+		{"id":"069955d7a3515f4b","type":"text","text":"《论十大关系》：\n**方针**：调动一切积极因素为社会主义事业服务","x":-125,"y":3120,"width":325,"height":130},
+		{"id":"e57d1509dab99b50","x":-460,"y":2934,"width":200,"height":50,"type":"text","text":"解放战争时期"},
+		{"id":"bd15795bbb994e16","x":-520,"y":2436,"width":200,"height":50,"type":"text","text":"抗日战争时期"}
 	],
 	"edges":[
 		{"id":"2fe00cba9a3b533c","fromNode":"e0b89b4fca8139f8","fromSide":"bottom","toNode":"1501c22879d4d888","toSide":"top"},
@@ -45,6 +53,17 @@
 		{"id":"e697688d6de5eb34","fromNode":"84de95f21481cbe9","fromSide":"bottom","toNode":"9a2cfd175e07ce7f","toSide":"top"},
 		{"id":"08ed54459e0f9cf3","fromNode":"9a2cfd175e07ce7f","fromSide":"bottom","toNode":"06e4bbf2528f14d8","toSide":"top"},
 		{"id":"c0472af395729153","fromNode":"06e4bbf2528f14d8","fromSide":"bottom","toNode":"4b1648622a8f4b1a","toSide":"top"},
-		{"id":"3306c0a6125d3bb0","fromNode":"84de95f21481cbe9","fromSide":"right","toNode":"25d1fc78e006c343","toSide":"left"}
+		{"id":"3306c0a6125d3bb0","fromNode":"84de95f21481cbe9","fromSide":"right","toNode":"25d1fc78e006c343","toSide":"left"},
+		{"id":"0a46c813bca913bc","fromNode":"4b1648622a8f4b1a","fromSide":"bottom","toNode":"9b07005d304ca512","toSide":"top"},
+		{"id":"bd6ba0272c04fc91","fromNode":"9b07005d304ca512","fromSide":"bottom","toNode":"279ef00529dcdaca","toSide":"top"},
+		{"id":"1a1d2164c3c6245d","fromNode":"279ef00529dcdaca","fromSide":"bottom","toNode":"b2cf77e0ff83e18a","toSide":"top"},
+		{"id":"cced2e52a38edb34","fromNode":"b2cf77e0ff83e18a","fromSide":"bottom","toNode":"ae00c2c772c00529","toSide":"top"},
+		{"id":"b6bfc308423f61ac","fromNode":"ae00c2c772c00529","fromSide":"bottom","toNode":"fc56c22f8f102854","toSide":"top"},
+		{"id":"90caa617cc5d97d2","fromNode":"fc56c22f8f102854","fromSide":"bottom","toNode":"069955d7a3515f4b","toSide":"top"},
+		{"id":"8651ca2486a8e702","fromNode":"069955d7a3515f4b","fromSide":"bottom","toNode":"631d92e21a2e671c","toSide":"top"},
+		{"id":"15414f1d48ea63f6","fromNode":"bd15795bbb994e16","fromSide":"right","toNode":"06e4bbf2528f14d8","toSide":"left"},
+		{"id":"2b3e2ab5c8f98ac6","fromNode":"bd15795bbb994e16","fromSide":"right","toNode":"b2cf77e0ff83e18a","toSide":"left"},
+		{"id":"efd92e5c7f2cbb76","fromNode":"e57d1509dab99b50","fromSide":"right","toNode":"ae00c2c772c00529","toSide":"left"},
+		{"id":"b37cb3fd725edc13","fromNode":"e57d1509dab99b50","fromSide":"right","toNode":"fc56c22f8f102854","toSide":"left"}
 	]
 }
