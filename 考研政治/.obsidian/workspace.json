@@ -8,21 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f52592e6809eaa00",
+            "id": "fde6b1567aa2eb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思想道德法治/思修论述题.md",
+                "file": "肖四整理/大题一张纸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思修论述题"
+              "title": "大题一张纸"
             }
           },
           {
-            "id": "fde6b1567aa2eb32",
+            "id": "ff57176a829a80c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肖四整理/大题考点整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大题考点整理"
+            }
+          },
+          {
+            "id": "ff4603d430a36e13",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -31,18 +45,6 @@
               },
               "icon": "lucide-file-text",
               "title": "唯物辩证法"
-            }
-          },
-          {
-            "id": "3a2e1cf89db938a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "资料链接/空卡速成讲义/新思想/5分钟背完新质生产力（讲义）.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5分钟背完新质生产力（讲义）"
             }
           },
           {
@@ -132,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50152587890625,
-    "collapsed": true
+    "width": 200.50152587890625
   },
   "right": {
     "id": "09ea032b47726d34",
@@ -226,14 +227,20 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "fde6b1567aa2eb32",
+  "active": "ff57176a829a80c9",
   "lastOpenFiles": [
-    "肖四整理/大题带背.md",
+    "肖四整理/大题一张纸.md",
+    "思想道德法治/思修论述题.md",
     "肖四整理/唯物辩证法.pdf",
+    "资料链接/空卡速成讲义/新思想/5分钟背完新质生产力（讲义）.pdf",
+    "肖四整理/大题考点整理.md",
+    "45565ab08c94a79f608277adb7981d13 1.png",
+    "45565ab08c94a79f608277adb7981d13.png",
+    "未命名.md",
+    "肖四整理/大题带背.md",
     "肖八整理/肖八.md",
     "马原/马原论述题.md",
     "肖四整理/肖四马原论述.md",
-    "思想道德法治/思修论述题.md",
     "马原/马哲社会形态相关等式.md",
     "肖四整理/肖四.md",
     "Pasted image 20251216121843.png",
@@ -242,7 +249,6 @@
     "肖四整理/pic/个人社会理想.png",
     "肖四整理/pic",
     "肖四整理/pic/宪法至上.png",
-    "资料链接/空卡速成讲义/新思想/5分钟背完新质生产力（讲义）.pdf",
     "资料链接/空卡速成讲义/毛中特/毛中特（下）讲义@空卡空卡空空卡.pdf",
     "资料链接/空卡速成讲义/毛中特/毛中特（上）讲义@空卡空卡空空卡.pdf",
     "资料链接/空卡速成讲义/马原/科社讲义@空卡空卡空空卡.pdf",
@@ -254,7 +260,6 @@
     "新思想/新思想整理.md",
     "肖四整理/pic/资本所有制.png",
     "肖四整理/pic/马原-资本循环.png",
-    "未命名.md",
     "肖八整理/一个中国原则.md",
     "肖八整理/转折点相关表述.md",
     "史纲/史纲顺口溜.md",
@@ -271,8 +276,6 @@
     "史纲/两次政治协商会议.md",
     "史纲/人民军队的发展.md",
     "未命名.canvas",
-    "史纲/土地政策.md",
-    "史纲/中共会议.md",
     "马原/马原思维导图.canvas"
   ]
 }
